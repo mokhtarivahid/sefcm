@@ -1,0 +1,50 @@
+
+>>------------------------------------------------------------------------------
+Fuzzy C-Means on 'spambase.dat' with 4601 samples, 2 dimension and 2 clusters
+Running Fuzzy C-Means... [Done in 0.78 seconds]
+Cluster Validity (Jaccard Index): 0.516171  [Done in 0.172 seconds]
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Stream Ensemble Fuzzy C-Means on 'spambase.dat' with 4601 samples, 2 dimension, block size 1000, range [2,20] of clusters and 200 clusterings
+Initialization Stream Ensemble Fuzzy C-Means... [Done in 0.0 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'spambase.dat' with 1000 samples, 2 dimension, range [2,20] of clusters and 200 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.0 seconds]
+Running Ensemble Fuzzy C-Means with 200 iterations... [Done in 332.0 seconds]
+Extracting Final Partition... (5 clusters discovered) [Done in 11.922 seconds]
+Cluster Validity (Jaccard Index): 0.670739  [Done in 0.31 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 0 with 1000 samples... [Done in 343.984 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'spambase.dat' with 1000 samples, 2 dimension, range [2,20] of clusters and 200 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.0 seconds]
+Running Ensemble Fuzzy C-Means with 200 iterations... [Done in 332.782 seconds]
+Extracting Final Partition... (4 clusters discovered) [Done in 11.390 seconds]
+Cluster Validity (Jaccard Index): 0.672663  [Done in 0.16 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 1 with 1000 samples... [Done in 344.203 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'spambase.dat' with 1000 samples, 2 dimension, range [2,20] of clusters and 200 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.15 seconds]
+Running Ensemble Fuzzy C-Means with 200 iterations... [Done in 253.282 seconds]
+Extracting Final Partition... (4 clusters discovered) [Done in 11.203 seconds]
+Cluster Validity (Jaccard Index): 0.952873  [Done in 0.15 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 2 with 1000 samples... [Done in 264.531 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'spambase.dat' with 1000 samples, 2 dimension, range [2,20] of clusters and 200 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.16 seconds]
+Running Ensemble Fuzzy C-Means with 200 iterations... [Done in 210.765 seconds]
+Extracting Final Partition... (2 clusters discovered) [Done in 11.204 seconds]
+Cluster Validity (Jaccard Index): 0.934246  [Done in 0.15 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 3 with 1000 samples... [Done in 222.0 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'spambase.dat' with 601 samples, 2 dimension, range [2,20] of clusters and 200 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.0 seconds]
+Running Ensemble Fuzzy C-Means with 200 iterations... [Done in 123.422 seconds]
+Extracting Final Partition... (2 clusters discovered) [Done in 2.657 seconds]
+Cluster Validity (Jaccard Index): 0.986755  [Done in 0.15 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 4 with 601 samples... [Done in 126.94 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'spambase.dat' with 17 samples, 2 dimension, range [2,20] of clusters and 200 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.0 seconds]
+Running Ensemble Fuzzy C-Means with 200 iterations... [Done in 2.485 seconds]
+Extracting Final Partition... (13 clusters discovered) [Done in 0.15 seconds]
+Reclustering result of 5 blocks(iterations) with 17 samples(clusters)... (13 clusters discovered) [Done in 2.500 seconds]
+Cluster Validity (Jaccard Index): 0.777708  [Done in 0.0 seconds]

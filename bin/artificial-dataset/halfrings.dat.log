@@ -1,0 +1,15 @@
+
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'halfrings.dat' with 400 samples, 2 dimension, range [2,20] of clusters and 100 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.2 seconds]
+Running Ensemble Fuzzy C-Means with 100 iterations... [Done in 75.884 seconds]
+Extracting Final Partition... (2 clusters discovered) [Done in 1.98 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'halfrings.dat' with 400 samples, 2 dimension, range [2,20] of clusters and 100 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.2 seconds]
+Running Ensemble Fuzzy C-Means with 100 iterations...
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'halfrings.dat' with 400 samples, 2 dimension, range [2,20] of clusters and 100 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.18 seconds]
+Running Ensemble Fuzzy C-Means with 100 iterations... [Done in 82.37 seconds]
+Extracting Final Partition... (3 clusters discovered) [Done in 8.761 seconds]

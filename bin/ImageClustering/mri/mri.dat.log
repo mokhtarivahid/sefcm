@@ -1,0 +1,10 @@
+
+>>------------------------------------------------------------------------------
+Fuzzy C-Means on 'mri.dat' with 65536 samples, 1 dimension and 4 clusters
+Running Fuzzy C-Means... [Done in 18.58 seconds]
+>>------------------------------------------------------------------------------
+Fuzzy C-Means on 'mri.dat' with 65536 samples, 1 dimension and 5 clusters
+Running Fuzzy C-Means... [Done in 22.445 seconds]
+>>------------------------------------------------------------------------------
+Fuzzy C-Means on 'mri.dat' with 65536 samples, 1 dimension and 3 clusters
+Running Fuzzy C-Means... [Done in 10.495 seconds]

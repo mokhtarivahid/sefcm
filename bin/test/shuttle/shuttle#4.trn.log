@@ -1,0 +1,137 @@
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Stream Ensemble Fuzzy C-Means on 'shuttle#4.trn' with 17400 samples, 9 dimension, block size 1000, range [2,20] of clusters and 300 clusterings
+Initialization Stream Ensemble Fuzzy C-Means... [Done in 0.16 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'shuttle#4.trn' with 1000 samples, 9 dimension, range [2,20] of clusters and 300 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.15 seconds]
+Running Ensemble Fuzzy C-Means with 300 iterations... [Done in 740.813 seconds]
+Extracting Final Partition... (7 clusters discovered) [Done in 25.256 seconds]
+Cluster Validity (Jaccard Index): 0.685558  [Done in 0.94 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 0 with 1000 samples... [Done in 766.350 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'shuttle#4.trn' with 1000 samples, 9 dimension, range [2,20] of clusters and 300 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.16 seconds]
+Running Ensemble Fuzzy C-Means with 300 iterations... [Done in 836.659 seconds]
+Extracting Final Partition... (7 clusters discovered) [Done in 24.258 seconds]
+Cluster Validity (Jaccard Index): 0.699641  [Done in 0.78 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 1 with 1000 samples... [Done in 861.136 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'shuttle#4.trn' with 1000 samples, 9 dimension, range [2,20] of clusters and 300 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.15 seconds]
+Running Ensemble Fuzzy C-Means with 300 iterations... [Done in 790.328 seconds]
+Extracting Final Partition... (7 clusters discovered) [Done in 13.135 seconds]
+Cluster Validity (Jaccard Index): 0.614331  [Done in 0.62 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 2 with 1000 samples... [Done in 803.587 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'shuttle#4.trn' with 1000 samples, 9 dimension, range [2,20] of clusters and 300 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.0 seconds]
+Running Ensemble Fuzzy C-Means with 300 iterations... [Done in 432.291 seconds]
+Extracting Final Partition... (7 clusters discovered) [Done in 13.73 seconds]
+Cluster Validity (Jaccard Index): 0.633846  [Done in 0.47 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 3 with 1000 samples... [Done in 445.474 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'shuttle#4.trn' with 1000 samples, 9 dimension, range [2,20] of clusters and 300 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.15 seconds]
+Running Ensemble Fuzzy C-Means with 300 iterations... [Done in 471.729 seconds]
+Extracting Final Partition... (7 clusters discovered) [Done in 13.494 seconds]
+Cluster Validity (Jaccard Index): 0.647121  [Done in 0.62 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 4 with 1000 samples... [Done in 485.347 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'shuttle#4.trn' with 1000 samples, 9 dimension, range [2,20] of clusters and 300 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.15 seconds]
+Running Ensemble Fuzzy C-Means with 300 iterations... [Done in 470.423 seconds]
+Extracting Final Partition... (7 clusters discovered) [Done in 13.464 seconds]
+Cluster Validity (Jaccard Index): 0.626674  [Done in 0.46 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 5 with 1000 samples... [Done in 484.11 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'shuttle#4.trn' with 1000 samples, 9 dimension, range [2,20] of clusters and 300 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.15 seconds]
+Running Ensemble Fuzzy C-Means with 300 iterations... [Done in 464.944 seconds]
+Extracting Final Partition... (7 clusters discovered) [Done in 13.681 seconds]
+Cluster Validity (Jaccard Index): 0.641874  [Done in 0.62 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 6 with 1000 samples... [Done in 478.749 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'shuttle#4.trn' with 1000 samples, 9 dimension, range [2,20] of clusters and 300 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.15 seconds]
+Running Ensemble Fuzzy C-Means with 300 iterations... [Done in 441.964 seconds]
+Extracting Final Partition... (7 clusters discovered) [Done in 14.118 seconds]
+Cluster Validity (Jaccard Index): 0.653183  [Done in 0.62 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 7 with 1000 samples... [Done in 456.206 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'shuttle#4.trn' with 1000 samples, 9 dimension, range [2,20] of clusters and 300 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.16 seconds]
+Running Ensemble Fuzzy C-Means with 300 iterations... [Done in 540.961 seconds]
+Extracting Final Partition... (7 clusters discovered) [Done in 13.322 seconds]
+Cluster Validity (Jaccard Index): 0.612620  [Done in 0.47 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 8 with 1000 samples... [Done in 554.377 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'shuttle#4.trn' with 1000 samples, 9 dimension, range [2,20] of clusters and 300 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.16 seconds]
+Running Ensemble Fuzzy C-Means with 300 iterations... [Done in 478.935 seconds]
+Extracting Final Partition... (7 clusters discovered) [Done in 13.151 seconds]
+Cluster Validity (Jaccard Index): 0.630693  [Done in 0.47 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 9 with 1000 samples... [Done in 492.196 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'shuttle#4.trn' with 1000 samples, 9 dimension, range [2,20] of clusters and 300 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.16 seconds]
+Running Ensemble Fuzzy C-Means with 300 iterations... [Done in 442.291 seconds]
+Extracting Final Partition... (2 clusters discovered) [Done in 13.120 seconds]
+Cluster Validity (Jaccard Index): 0.645650  [Done in 0.15 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 10 with 1000 samples... [Done in 455.442 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'shuttle#4.trn' with 1000 samples, 9 dimension, range [2,20] of clusters and 300 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.15 seconds]
+Running Ensemble Fuzzy C-Means with 300 iterations... [Done in 507.94 seconds]
+Extracting Final Partition... (7 clusters discovered) [Done in 13.338 seconds]
+Cluster Validity (Jaccard Index): 0.682042  [Done in 0.62 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 11 with 1000 samples... [Done in 520.556 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'shuttle#4.trn' with 1000 samples, 9 dimension, range [2,20] of clusters and 300 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.0 seconds]
+Running Ensemble Fuzzy C-Means with 300 iterations... [Done in 531.843 seconds]
+Extracting Final Partition... (7 clusters discovered) [Done in 13.744 seconds]
+Cluster Validity (Jaccard Index): 0.674027  [Done in 0.15 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 12 with 1000 samples... [Done in 545.650 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'shuttle#4.trn' with 1000 samples, 9 dimension, range [2,20] of clusters and 300 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.0 seconds]
+Running Ensemble Fuzzy C-Means with 300 iterations... [Done in 470.106 seconds]
+Extracting Final Partition... (7 clusters discovered) [Done in 13.479 seconds]
+Cluster Validity (Jaccard Index): 0.658446  [Done in 0.62 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 13 with 1000 samples... [Done in 483.694 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'shuttle#4.trn' with 1000 samples, 9 dimension, range [2,20] of clusters and 300 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.16 seconds]
+Running Ensemble Fuzzy C-Means with 300 iterations... [Done in 534.584 seconds]
+Extracting Final Partition... (7 clusters discovered) [Done in 13.806 seconds]
+Cluster Validity (Jaccard Index): 0.655547  [Done in 0.63 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 14 with 1000 samples... [Done in 548.500 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'shuttle#4.trn' with 1000 samples, 9 dimension, range [2,20] of clusters and 300 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.16 seconds]
+Running Ensemble Fuzzy C-Means with 300 iterations... [Done in 533.80 seconds]
+Extracting Final Partition... (7 clusters discovered) [Done in 13.338 seconds]
+Cluster Validity (Jaccard Index): 0.628959  [Done in 0.47 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 15 with 1000 samples... [Done in 546.559 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'shuttle#4.trn' with 1000 samples, 9 dimension, range [2,20] of clusters and 300 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.15 seconds]
+Running Ensemble Fuzzy C-Means with 300 iterations... [Done in 443.131 seconds]
+Extracting Final Partition... (7 clusters discovered) [Done in 13.322 seconds]
+Cluster Validity (Jaccard Index): 0.669731  [Done in 0.63 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 16 with 1000 samples... [Done in 456.609 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'shuttle#4.trn' with 400 samples, 9 dimension, range [2,20] of clusters and 300 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.0 seconds]
+Running Ensemble Fuzzy C-Means with 300 iterations... [Done in 145.661 seconds]
+Extracting Final Partition... (7 clusters discovered) [Done in 0.889 seconds]
+Cluster Validity (Jaccard Index): 0.673185  [Done in 0.15 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 17 with 400 samples... [Done in 146.565 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'shuttle#4.trn' with 121 samples, 9 dimension, range [2,20] of clusters and 300 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.0 seconds]
+Running Ensemble Fuzzy C-Means with 300 iterations... [Done in 42.286 seconds]
+Extracting Final Partition... (7 clusters discovered) [Done in 0.218 seconds]
+Reclustering result of 18 blocks(iterations) with 121 samples(clusters)... (7 clusters discovered) [Done in 42.504 seconds]
+Cluster Validity (Jaccard Index): 0.643735  [Done in 0.0 seconds]

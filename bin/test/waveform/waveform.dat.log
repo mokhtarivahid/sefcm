@@ -1,0 +1,91 @@
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Stream Ensemble Fuzzy C-Means on 'waveform.dat' with 5000 samples, 21 dimension, block size 1000, range [3,20] of clusters and 300 clusterings
+Initialization Stream Ensemble Fuzzy C-Means... [Done in 0.0 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'waveform.dat' with 1000 samples, 21 dimension, range [3,20] of clusters and 300 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.16 seconds]
+Running Ensemble Fuzzy C-Means with 300 iterations... [Done in 131.633 seconds]
+Extracting Final Partition... (4 clusters discovered) [Done in 12.589 seconds]
+Cluster Validity (Jaccard Index): 0.332310  [Done in 0.16 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 0 with 1000 samples... [Done in 144.269 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'waveform.dat' with 1000 samples, 21 dimension, range [3,20] of clusters and 300 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.16 seconds]
+Running Ensemble Fuzzy C-Means with 300 iterations... [Done in 162.739 seconds]
+Extracting Final Partition... (2 clusters discovered) [Done in 12.324 seconds]
+Cluster Validity (Jaccard Index): 0.333049  [Done in 0.16 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 1 with 1000 samples... [Done in 175.95 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'waveform.dat' with 1000 samples, 21 dimension, range [3,20] of clusters and 300 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.0 seconds]
+Running Ensemble Fuzzy C-Means with 300 iterations... [Done in 182.83 seconds]
+Extracting Final Partition... (3 clusters discovered) [Done in 12.277 seconds]
+Cluster Validity (Jaccard Index): 0.332355  [Done in 0.16 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 2 with 1000 samples... [Done in 194.392 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'waveform.dat' with 1000 samples, 21 dimension, range [3,20] of clusters and 300 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.16 seconds]
+Running Ensemble Fuzzy C-Means with 300 iterations... [Done in 158.324 seconds]
+Extracting Final Partition... (2 clusters discovered) [Done in 12.293 seconds]
+Cluster Validity (Jaccard Index): 0.333017  [Done in 0.16 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 3 with 1000 samples... [Done in 170.649 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'waveform.dat' with 1000 samples, 21 dimension, range [3,20] of clusters and 300 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.0 seconds]
+Running Ensemble Fuzzy C-Means with 300 iterations... [Done in 188.720 seconds]
+Extracting Final Partition... (2 clusters discovered) [Done in 12.355 seconds]
+Cluster Validity (Jaccard Index): 0.330721  [Done in 0.15 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 4 with 1000 samples... [Done in 201.106 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'waveform.dat' with 13 samples, 21 dimension, range [3,20] of clusters and 300 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.0 seconds]
+Running Ensemble Fuzzy C-Means with 300 iterations... [Done in 0.874 seconds]
+Extracting Final Partition... (4 clusters discovered) [Done in 0.156 seconds]
+Reclustering result of 5 blocks(iterations) with 13 samples(clusters)... (4 clusters discovered) [Done in 1.30 seconds]
+Cluster Validity (Jaccard Index): 0.332491  [Done in 0.0 seconds]
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Stream Ensemble Fuzzy C-Means on 'waveform.dat' with 5000 samples, 21 dimension, block size 1000, range [3,15] of clusters and 300 clusterings
+Initialization Stream Ensemble Fuzzy C-Means... [Done in 0.16 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'waveform.dat' with 1000 samples, 21 dimension, range [3,15] of clusters and 300 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.0 seconds]
+Running Ensemble Fuzzy C-Means with 300 iterations... [Done in 85.363 seconds]
+Extracting Final Partition... (3 clusters discovered) [Done in 12.699 seconds]
+Cluster Validity (Jaccard Index): 0.332501  [Done in 0.15 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 0 with 1000 samples... [Done in 98.109 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'waveform.dat' with 1000 samples, 21 dimension, range [3,15] of clusters and 300 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.16 seconds]
+Running Ensemble Fuzzy C-Means with 300 iterations... [Done in 126.298 seconds]
+Extracting Final Partition... (3 clusters discovered) [Done in 12.370 seconds]
+Cluster Validity (Jaccard Index): 0.331838  [Done in 0.16 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 1 with 1000 samples... [Done in 138.716 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'waveform.dat' with 1000 samples, 21 dimension, range [3,15] of clusters and 300 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.16 seconds]
+Running Ensemble Fuzzy C-Means with 300 iterations... [Done in 122.226 seconds]
+Extracting Final Partition... (3 clusters discovered) [Done in 12.324 seconds]
+Cluster Validity (Jaccard Index): 0.331793  [Done in 0.15 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 2 with 1000 samples... [Done in 134.597 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'waveform.dat' with 1000 samples, 21 dimension, range [3,15] of clusters and 300 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.0 seconds]
+Running Ensemble Fuzzy C-Means with 300 iterations... [Done in 121.727 seconds]
+Extracting Final Partition... (3 clusters discovered) [Done in 12.324 seconds]
+Cluster Validity (Jaccard Index): 0.331955  [Done in 0.16 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 3 with 1000 samples... [Done in 134.82 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'waveform.dat' with 1000 samples, 21 dimension, range [3,15] of clusters and 300 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.15 seconds]
+Running Ensemble Fuzzy C-Means with 300 iterations... [Done in 122.70 seconds]
+Extracting Final Partition... (2 clusters discovered) [Done in 12.402 seconds]
+Cluster Validity (Jaccard Index): 0.330721  [Done in 0.16 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 4 with 1000 samples... [Done in 134.503 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'waveform.dat' with 14 samples, 21 dimension, range [3,15] of clusters and 300 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.0 seconds]
+Running Ensemble Fuzzy C-Means with 300 iterations... [Done in 1.123 seconds]
+Extracting Final Partition... (3 clusters discovered) [Done in 0.140 seconds]
+Reclustering result of 5 blocks(iterations) with 14 samples(clusters)... (3 clusters discovered) [Done in 1.279 seconds]
+Cluster Validity (Jaccard Index): 0.332045  [Done in 0.0 seconds]

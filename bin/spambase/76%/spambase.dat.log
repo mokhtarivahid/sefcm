@@ -1,0 +1,61 @@
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Stream Ensemble Fuzzy C-Means on 'spambase.dat' with 4601 samples, 57 dimension, block size 1000, range [2,10] of clusters and 100 clusterings
+Initialization Stream Ensemble Fuzzy C-Means... [Done in 0.2 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'spambase.dat' with 1000 samples, 57 dimension and 2 clusters [Done in 0.81 seconds]
+Cluster Validity (Jaccard Index): 0.799337  [Done in 0.15 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 1 with 1000 samples... [Done in 0.98 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'spambase.dat' with 1000 samples, 57 dimension and 2 clusters [Done in 0.104 seconds]
+Cluster Validity (Jaccard Index): 0.603059  [Done in 0.11 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 2 with 1000 samples... [Done in 0.116 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'spambase.dat' with 1000 samples, 57 dimension and 2 clusters [Done in 0.86 seconds]
+Cluster Validity (Jaccard Index): 0.903105  [Done in 0.9 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 3 with 1000 samples... [Done in 0.99 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'spambase.dat' with 1000 samples, 57 dimension and 2 clusters [Done in 0.97 seconds]
+Cluster Validity (Jaccard Index): 0.895946  [Done in 0.9 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 4 with 1000 samples... [Done in 0.108 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'spambase.dat' with 601 samples, 57 dimension and 2 clusters [Done in 0.34 seconds]
+Cluster Validity (Jaccard Index): 0.806767  [Done in 0.4 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 5 with 601 samples... [Done in 0.41 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'spambase.dat' with 10 samples, 57 dimension, range [2,10] of clusters and 100 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.2 seconds]
+Running Ensemble Fuzzy C-Means with 100 iterations... [Done in 0.159 seconds]
+Extracting Final Partition... (2 clusters discovered) [Done in 0.142 seconds]
+Reclustering result of 5 blocks(iterations) with 10 samples(clusters)... (2 clusters discovered) [Done in 0.307 seconds]
+Cluster Validity (Jaccard Index): 0.496950  [Done in 0.0 seconds]
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Stream Ensemble Fuzzy C-Means on 'spambase.dat' with 4601 samples, 57 dimension, block size 1000, range [2,10] of clusters and 100 clusterings
+Initialization Stream Ensemble Fuzzy C-Means... [Done in 0.2 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'spambase.dat' with 1000 samples, 57 dimension and 2 clusters [Done in 0.59 seconds]
+Cluster Validity (Jaccard Index): 0.799337  [Done in 0.14 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 1 with 1000 samples... [Done in 0.75 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'spambase.dat' with 1000 samples, 57 dimension and 2 clusters [Done in 0.61 seconds]
+Cluster Validity (Jaccard Index): 0.603059  [Done in 0.10 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 2 with 1000 samples... [Done in 0.74 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'spambase.dat' with 1000 samples, 57 dimension and 2 clusters [Done in 0.74 seconds]
+Cluster Validity (Jaccard Index): 0.903105  [Done in 0.11 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 3 with 1000 samples... [Done in 0.88 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'spambase.dat' with 1000 samples, 57 dimension and 2 clusters [Done in 0.57 seconds]
+Cluster Validity (Jaccard Index): 0.899518  [Done in 0.9 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 4 with 1000 samples... [Done in 0.67 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'spambase.dat' with 601 samples, 57 dimension and 2 clusters [Done in 0.24 seconds]
+Cluster Validity (Jaccard Index): 0.806767  [Done in 0.4 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 5 with 601 samples... [Done in 0.31 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'spambase.dat' with 10 samples, 57 dimension, range [2,10] of clusters and 100 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.2 seconds]
+Running Ensemble Fuzzy C-Means with 100 iterations... [Done in 0.310 seconds]
+Extracting Final Partition... (5 clusters discovered) [Done in 0.144 seconds]
+Reclustering result of 5 blocks(iterations) with 10 samples(clusters)... (5 clusters discovered) [Done in 0.462 seconds]
+Cluster Validity (Jaccard Index): 0.767011  [Done in 0.1 seconds]

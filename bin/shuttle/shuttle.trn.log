@@ -1,0 +1,376 @@
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Stream Ensemble Fuzzy C-Means on 'shuttle.trn' with 43500 samples, 9 dimension, block size 500, range [7,15] of clusters and 300 clusterings
+Initialization Stream Ensemble Fuzzy C-Means... [Done in 0.3 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.464 seconds]
+Cluster Validity (Jaccard Index): 0.234745  [Done in 0.11 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 1 with 500 samples... [Done in 0.478 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.378 seconds]
+Cluster Validity (Jaccard Index): 0.235297  [Done in 0.13 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 2 with 500 samples... [Done in 0.394 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.460 seconds]
+Cluster Validity (Jaccard Index): 0.309521  [Done in 0.12 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 3 with 500 samples... [Done in 0.475 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.438 seconds]
+Cluster Validity (Jaccard Index): 0.240686  [Done in 0.12 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 4 with 500 samples... [Done in 0.453 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.457 seconds]
+Cluster Validity (Jaccard Index): 0.300584  [Done in 0.11 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 5 with 500 samples... [Done in 0.470 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.435 seconds]
+Cluster Validity (Jaccard Index): 0.243831  [Done in 0.11 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 6 with 500 samples... [Done in 0.448 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.469 seconds]
+Cluster Validity (Jaccard Index): 0.326132  [Done in 0.14 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 7 with 500 samples... [Done in 0.485 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.460 seconds]
+Cluster Validity (Jaccard Index): 0.267902  [Done in 0.10 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 8 with 500 samples... [Done in 0.472 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.186 seconds]
+Cluster Validity (Jaccard Index): 0.283203  [Done in 0.11 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 9 with 500 samples... [Done in 0.199 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.458 seconds]
+Cluster Validity (Jaccard Index): 0.274464  [Done in 0.10 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 10 with 500 samples... [Done in 0.469 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.305 seconds]
+Cluster Validity (Jaccard Index): 0.340446  [Done in 0.10 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 11 with 500 samples... [Done in 0.317 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.415 seconds]
+Cluster Validity (Jaccard Index): 0.227890  [Done in 0.11 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 12 with 500 samples... [Done in 0.427 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.533 seconds]
+Cluster Validity (Jaccard Index): 0.249515  [Done in 0.12 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 13 with 500 samples... [Done in 0.546 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.446 seconds]
+Cluster Validity (Jaccard Index): 0.234236  [Done in 0.9 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 14 with 500 samples... [Done in 0.457 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.408 seconds]
+Cluster Validity (Jaccard Index): 0.265754  [Done in 0.10 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 15 with 500 samples... [Done in 0.421 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.490 seconds]
+Cluster Validity (Jaccard Index): 0.240178  [Done in 0.11 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 16 with 500 samples... [Done in 0.503 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.352 seconds]
+Cluster Validity (Jaccard Index): 0.227122  [Done in 0.11 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 17 with 500 samples... [Done in 0.366 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.662 seconds]
+Cluster Validity (Jaccard Index): 0.266088  [Done in 0.13 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 18 with 500 samples... [Done in 0.677 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.444 seconds]
+Cluster Validity (Jaccard Index): 0.366966  [Done in 0.11 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 19 with 500 samples... [Done in 0.457 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.404 seconds]
+Cluster Validity (Jaccard Index): 0.262673  [Done in 0.11 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 20 with 500 samples... [Done in 0.417 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.281 seconds]
+Cluster Validity (Jaccard Index): 0.232584  [Done in 0.10 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 21 with 500 samples... [Done in 0.293 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.417 seconds]
+Cluster Validity (Jaccard Index): 0.300066  [Done in 0.10 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 22 with 500 samples... [Done in 0.429 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.341 seconds]
+Cluster Validity (Jaccard Index): 0.219272  [Done in 0.10 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 23 with 500 samples... [Done in 0.353 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.693 seconds]
+Cluster Validity (Jaccard Index): 0.225917  [Done in 0.10 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 24 with 500 samples... [Done in 0.706 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.732 seconds]
+Cluster Validity (Jaccard Index): 0.238922  [Done in 0.11 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 25 with 500 samples... [Done in 0.746 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.442 seconds]
+Cluster Validity (Jaccard Index): 0.233399  [Done in 0.11 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 26 with 500 samples... [Done in 0.456 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.498 seconds]
+Cluster Validity (Jaccard Index): 0.270076  [Done in 0.12 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 27 with 500 samples... [Done in 0.513 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.544 seconds]
+Cluster Validity (Jaccard Index): 0.264652  [Done in 0.11 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 28 with 500 samples... [Done in 0.557 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.444 seconds]
+Cluster Validity (Jaccard Index): 0.239862  [Done in 0.13 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 29 with 500 samples... [Done in 0.459 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.551 seconds]
+Cluster Validity (Jaccard Index): 0.224419  [Done in 0.12 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 30 with 500 samples... [Done in 0.565 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.792 seconds]
+Cluster Validity (Jaccard Index): 0.282281  [Done in 0.11 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 31 with 500 samples... [Done in 0.805 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.729 seconds]
+Cluster Validity (Jaccard Index): 0.269758  [Done in 0.12 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 32 with 500 samples... [Done in 0.743 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.422 seconds]
+Cluster Validity (Jaccard Index): 0.272064  [Done in 0.10 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 33 with 500 samples... [Done in 0.435 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.560 seconds]
+Cluster Validity (Jaccard Index): 0.301408  [Done in 0.11 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 34 with 500 samples... [Done in 0.573 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.525 seconds]
+Cluster Validity (Jaccard Index): 0.244925  [Done in 0.12 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 35 with 500 samples... [Done in 0.539 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.990 seconds]
+Cluster Validity (Jaccard Index): 0.236944  [Done in 0.11 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 36 with 500 samples... [Done in 1.3 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.454 seconds]
+Cluster Validity (Jaccard Index): 0.259415  [Done in 0.11 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 37 with 500 samples... [Done in 0.467 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.316 seconds]
+Cluster Validity (Jaccard Index): 0.284939  [Done in 0.10 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 38 with 500 samples... [Done in 0.329 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.411 seconds]
+Cluster Validity (Jaccard Index): 0.257132  [Done in 0.14 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 39 with 500 samples... [Done in 0.427 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.999 seconds]
+Cluster Validity (Jaccard Index): 0.230384  [Done in 0.11 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 40 with 500 samples... [Done in 1.13 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.525 seconds]
+Cluster Validity (Jaccard Index): 0.261520  [Done in 0.17 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 41 with 500 samples... [Done in 0.544 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.908 seconds]
+Cluster Validity (Jaccard Index): 0.281595  [Done in 0.12 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 42 with 500 samples... [Done in 0.924 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.426 seconds]
+Cluster Validity (Jaccard Index): 0.269514  [Done in 0.19 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 43 with 500 samples... [Done in 0.450 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.829 seconds]
+Cluster Validity (Jaccard Index): 0.248014  [Done in 0.12 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 44 with 500 samples... [Done in 0.847 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.503 seconds]
+Cluster Validity (Jaccard Index): 0.235545  [Done in 0.15 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 45 with 500 samples... [Done in 0.524 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.376 seconds]
+Cluster Validity (Jaccard Index): 0.309147  [Done in 0.12 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 46 with 500 samples... [Done in 0.392 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.734 seconds]
+Cluster Validity (Jaccard Index): 0.303385  [Done in 0.19 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 47 with 500 samples... [Done in 0.757 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.782 seconds]
+Cluster Validity (Jaccard Index): 0.290153  [Done in 0.12 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 48 with 500 samples... [Done in 0.801 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.424 seconds]
+Cluster Validity (Jaccard Index): 0.252543  [Done in 0.14 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 49 with 500 samples... [Done in 0.443 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.622 seconds]
+Cluster Validity (Jaccard Index): 0.252593  [Done in 0.12 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 50 with 500 samples... [Done in 0.639 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.479 seconds]
+Cluster Validity (Jaccard Index): 0.275988  [Done in 0.12 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 51 with 500 samples... [Done in 0.496 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.387 seconds]
+Cluster Validity (Jaccard Index): 0.235387  [Done in 0.13 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 52 with 500 samples... [Done in 0.402 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.529 seconds]
+Cluster Validity (Jaccard Index): 0.261646  [Done in 0.12 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 53 with 500 samples... [Done in 0.543 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.827 seconds]
+Cluster Validity (Jaccard Index): 0.303973  [Done in 0.14 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 54 with 500 samples... [Done in 0.842 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.694 seconds]
+Cluster Validity (Jaccard Index): 0.209364  [Done in 0.10 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 55 with 500 samples... [Done in 0.708 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.348 seconds]
+Cluster Validity (Jaccard Index): 0.322674  [Done in 0.11 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 56 with 500 samples... [Done in 0.361 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.696 seconds]
+Cluster Validity (Jaccard Index): 0.255103  [Done in 0.12 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 57 with 500 samples... [Done in 0.710 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.533 seconds]
+Cluster Validity (Jaccard Index): 0.252484  [Done in 0.17 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 58 with 500 samples... [Done in 0.552 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.961 seconds]
+Cluster Validity (Jaccard Index): 0.244006  [Done in 0.12 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 59 with 500 samples... [Done in 0.977 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 1.153 seconds]
+Cluster Validity (Jaccard Index): 0.272542  [Done in 0.10 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 60 with 500 samples... [Done in 1.165 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.374 seconds]
+Cluster Validity (Jaccard Index): 0.288637  [Done in 0.11 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 61 with 500 samples... [Done in 0.388 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.442 seconds]
+Cluster Validity (Jaccard Index): 0.245278  [Done in 0.12 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 62 with 500 samples... [Done in 0.455 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.455 seconds]
+Cluster Validity (Jaccard Index): 0.208424  [Done in 0.12 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 63 with 500 samples... [Done in 0.469 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.339 seconds]
+Cluster Validity (Jaccard Index): 0.267862  [Done in 0.10 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 64 with 500 samples... [Done in 0.351 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.426 seconds]
+Cluster Validity (Jaccard Index): 0.244546  [Done in 0.14 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 65 with 500 samples... [Done in 0.441 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.303 seconds]
+Cluster Validity (Jaccard Index): 0.269925  [Done in 0.13 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 66 with 500 samples... [Done in 0.318 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.336 seconds]
+Cluster Validity (Jaccard Index): 0.269058  [Done in 0.16 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 67 with 500 samples... [Done in 0.354 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.320 seconds]
+Cluster Validity (Jaccard Index): 0.352750  [Done in 0.11 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 68 with 500 samples... [Done in 0.333 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.476 seconds]
+Cluster Validity (Jaccard Index): 0.245722  [Done in 0.10 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 69 with 500 samples... [Done in 0.488 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.601 seconds]
+Cluster Validity (Jaccard Index): 0.245389  [Done in 0.11 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 70 with 500 samples... [Done in 0.614 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.460 seconds]
+Cluster Validity (Jaccard Index): 0.242841  [Done in 0.10 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 71 with 500 samples... [Done in 0.472 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.306 seconds]
+Cluster Validity (Jaccard Index): 0.282884  [Done in 0.10 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 72 with 500 samples... [Done in 0.318 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.306 seconds]
+Cluster Validity (Jaccard Index): 0.245187  [Done in 0.12 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 73 with 500 samples... [Done in 0.320 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.341 seconds]
+Cluster Validity (Jaccard Index): 0.286762  [Done in 0.12 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 74 with 500 samples... [Done in 0.355 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.411 seconds]
+Cluster Validity (Jaccard Index): 0.276262  [Done in 0.10 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 75 with 500 samples... [Done in 0.423 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.251 seconds]
+Cluster Validity (Jaccard Index): 0.311879  [Done in 0.11 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 76 with 500 samples... [Done in 0.264 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.304 seconds]
+Cluster Validity (Jaccard Index): 0.277710  [Done in 0.11 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 77 with 500 samples... [Done in 0.316 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.903 seconds]
+Cluster Validity (Jaccard Index): 0.258876  [Done in 0.12 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 78 with 500 samples... [Done in 0.917 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.527 seconds]
+Cluster Validity (Jaccard Index): 0.309656  [Done in 0.10 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 79 with 500 samples... [Done in 0.539 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.401 seconds]
+Cluster Validity (Jaccard Index): 0.251967  [Done in 0.10 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 80 with 500 samples... [Done in 0.414 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.414 seconds]
+Cluster Validity (Jaccard Index): 0.257435  [Done in 0.10 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 81 with 500 samples... [Done in 0.426 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.441 seconds]
+Cluster Validity (Jaccard Index): 0.249859  [Done in 0.11 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 82 with 500 samples... [Done in 0.453 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.417 seconds]
+Cluster Validity (Jaccard Index): 0.252330  [Done in 0.11 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 83 with 500 samples... [Done in 0.429 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.310 seconds]
+Cluster Validity (Jaccard Index): 0.265215  [Done in 0.12 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 84 with 500 samples... [Done in 0.324 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.287 seconds]
+Cluster Validity (Jaccard Index): 0.265616  [Done in 0.12 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 85 with 500 samples... [Done in 0.301 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.300 seconds]
+Cluster Validity (Jaccard Index): 0.237808  [Done in 0.11 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 86 with 500 samples... [Done in 0.313 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.396 seconds]
+Cluster Validity (Jaccard Index): 0.270949  [Done in 0.10 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 87 with 500 samples... [Done in 0.407 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'shuttle.trn' with 609 samples, 9 dimension, range [7,15] of clusters and 300 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.3 seconds]
+Running Ensemble Fuzzy C-Means with 300 iterations... [Done in 321.825 seconds]
+Extracting Final Partition... (7 clusters discovered) [Done in 2.952 seconds]
+Reclustering result of 87 blocks(iterations) with 609 samples(clusters)... (7 clusters discovered) [Done in 324.790 seconds]
+Cluster Validity (Jaccard Index): 0.464381  [Done in 0.0 seconds]
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Stream Ensemble Fuzzy C-Means on 'shuttle.trn' with 43500 samples, 9 dimension, block size 500, range [7,15] of clusters and 300 clusterings
+Initialization Stream Ensemble Fuzzy C-Means... [Done in 0.0 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 1.437 seconds]
+Cluster Validity (Jaccard Index): 0.229596  [Done in 0.16 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 1 with 500 samples... [Done in 1.453 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 1.172 seconds]
+Cluster Validity (Jaccard Index): 0.231938  [Done in 0.16 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 2 with 500 samples... [Done in 1.219 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters [Done in 0.938 seconds]
+Cluster Validity (Jaccard Index): 0.303645  [Done in 0.46 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 3 with 500 samples... [Done in 0.984 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'shuttle.trn' with 500 samples, 9 dimension and 7 clusters

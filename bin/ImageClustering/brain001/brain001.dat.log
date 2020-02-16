@@ -1,0 +1,13 @@
+
+>>------------------------------------------------------------------------------
+Fuzzy C-Means on 'brain001.dat' with 65536 samples, 1 dimension and 4 clusters
+Running Fuzzy C-Means... [Done in 9.864 seconds]
+>>------------------------------------------------------------------------------
+Fuzzy C-Means on 'brain001.dat' with 65536 samples, 1 dimension and 3 clusters
+Running Fuzzy C-Means... [Done in 9.590 seconds]
+>>------------------------------------------------------------------------------
+Fuzzy C-Means on 'brain001.dat' with 65536 samples, 1 dimension and 4 clusters
+Running Fuzzy C-Means... [Done in 13.503 seconds]
+>>------------------------------------------------------------------------------
+Fuzzy C-Means on 'brain001.dat' with 65536 samples, 1 dimension and 5 clusters
+Running Fuzzy C-Means... [Done in 21.741 seconds]

@@ -1,0 +1,31 @@
+
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'petals.dat' with 100 samples, 2 dimension, range [2,10] of clusters and 500 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.4 seconds]
+Running Ensemble Fuzzy C-Means with 500 iterations... [Done in 20.976 seconds]
+Extracting Final Partition... (2 clusters discovered) [Done in 0.117 seconds]
+Cluster Validity (Jaccard Index): 0.390244  [Done in 0.0 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'petals.dat' with 100 samples, 2 dimension, range [2,20] of clusters and 500 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.1 seconds]
+Running Ensemble Fuzzy C-Means with 500 iterations... [Done in 72.117 seconds]
+Extracting Final Partition... (2 clusters discovered) [Done in 0.707 seconds]
+Cluster Validity (Jaccard Index): 0.390244  [Done in 0.1 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'petals.dat' with 100 samples, 2 dimension, range [4,20] of clusters and 500 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.4 seconds]
+Running Ensemble Fuzzy C-Means with 500 iterations... [Done in 80.501 seconds]
+Extracting Final Partition... (2 clusters discovered) [Done in 0.714 seconds]
+Cluster Validity (Jaccard Index): 0.390244  [Done in 0.1 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'petals.dat' with 100 samples, 2 dimension, range [4,20] of clusters and 500 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.2 seconds]
+Running Ensemble Fuzzy C-Means with 500 iterations... [Done in 78.518 seconds]
+Extracting Final Partition... (4 clusters discovered) [Done in 0.712 seconds]
+Cluster Validity (Jaccard Index): 0.724138  [Done in 0.1 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'petals.dat' with 100 samples, 2 dimension, range [2,20] of clusters and 600 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.2 seconds]
+Running Ensemble Fuzzy C-Means with 600 iterations... [Done in 83.222 seconds]
+Extracting Final Partition... (4 clusters discovered) [Done in 0.846 seconds]
+Cluster Validity (Jaccard Index): 0.960000  [Done in 0.1 seconds]

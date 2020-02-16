@@ -1,0 +1,48 @@
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Stream Ensemble Fuzzy C-Means on 'test.txt' with 65536 samples, 1 dimension, block size 5000, range [2,10] of clusters and 100 clusterings
+Initialization Stream Ensemble Fuzzy C-Means... [Done in 0.3 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'test.txt' with 5000 samples, 1 dimension and 2 clusters [Done in 0.872 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 1 with 5000 samples... [Done in 0.874 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'test.txt' with 5000 samples, 1 dimension and 2 clusters [Done in 8.169 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 2 with 5000 samples... [Done in 8.171 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'test.txt' with 5000 samples, 1 dimension and 2 clusters [Done in 4.941 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 3 with 5000 samples... [Done in 4.945 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'test.txt' with 5000 samples, 1 dimension and 2 clusters [Done in 0.492 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 4 with 5000 samples... [Done in 0.496 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'test.txt' with 5000 samples, 1 dimension and 2 clusters [Done in 4.156 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 5 with 5000 samples... [Done in 4.159 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'test.txt' with 5000 samples, 1 dimension and 2 clusters [Done in 0.489 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 6 with 5000 samples... [Done in 0.494 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'test.txt' with 5000 samples, 1 dimension and 2 clusters [Done in 3.224 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 7 with 5000 samples... [Done in 3.228 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'test.txt' with 5000 samples, 1 dimension and 2 clusters [Done in 9.155 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 8 with 5000 samples... [Done in 9.160 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'test.txt' with 5000 samples, 1 dimension and 2 clusters [Done in 2.500 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 9 with 5000 samples... [Done in 2.505 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'test.txt' with 5000 samples, 1 dimension and 2 clusters [Done in 3.347 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 10 with 5000 samples... [Done in 3.352 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'test.txt' with 5000 samples, 1 dimension and 2 clusters [Done in 8.845 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 11 with 5000 samples... [Done in 8.850 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'test.txt' with 5000 samples, 1 dimension and 2 clusters [Done in 1.413 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 12 with 5000 samples... [Done in 1.417 seconds]
+>>------------------------------------------------------------------------------
+Running Fuzzy C-Means on 'test.txt' with 4096 samples, 1 dimension and 2 clusters [Done in 0.192 seconds]
+Running Stream Ensemble Fuzzy C-Means on Block 13 with 4096 samples... [Done in 0.196 seconds]
+>>------------------------------------------------------------------------------
+Ensemble Fuzzy C-Means on 'test.txt' with 76 samples, 1 dimension, range [2,10] of clusters and 100 clusterings
+Initialization Ensemble Fuzzy C-Means... [Done in 0.3 seconds]
+Running Ensemble Fuzzy C-Means with 100 iterations... [Done in 2.337 seconds]
+Extracting Final Partition... (4 clusters discovered) [Done in 0.178 seconds]

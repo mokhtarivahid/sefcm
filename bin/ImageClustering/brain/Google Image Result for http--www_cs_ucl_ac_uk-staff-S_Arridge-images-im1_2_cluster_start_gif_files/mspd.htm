@@ -1,0 +1,202 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0066)http://www.cs.ucl.ac.uk/staff/S.Arridge/student_projects/mspd.html -->
+<HTML><HEAD><TITLE>CVIPGS MREs : Projects 1996-1997</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=windows-1256">
+<META content="MSHTML 6.00.2900.2180" name=GENERATOR></HEAD>
+<BODY>
+<H1>Simon Arridge</H1>
+<P>
+<H2>Multi-Spectral Probabilistic Diffusion</H2>
+<P>This project will be in collaboration with Dr. Andrew Simmons, from the 
+Department of Neurology, Institute of Psychiatry, De Crespigny Park, Denmark 
+Hill, London SE5 8AZ 
+<H3>Introduction</H3>
+<P>Multi-spectral images arise in a number of contexts, either directly, such as 
+RGB components of a colour image, indirectly, by registration of multiple 
+modalities such as intensity and range data, or by postprocessing to generate a 
+feature vector at every pixel for input for example into a Neural Network 
+classifier. In Medical Image Processing, direct multi-spectral images arise 
+routinely in multi-echo Magnetic Resonance Imaging (MRI), whilst indirect images 
+arise by the need for registration for example of MRI with X-Ray Computerised 
+Tomography (CT) or Positron Emission Tomography (PET). Furthermore, feature 
+vector generation is a very prevalent technique utilising for example, 
+intensity, gradient magnitude and texture measures. In these circumstances, a 
+powerful and well known classification techniques is feature-space clustering. 
+However, feature-space clustering takes no account of the spatial information in 
+an image - as an extreme case, the vector valued pixels could be randomly 
+shuffled and the same feature space would result. 
+<P>Multiresolution processing is a well established technique in image 
+processing. When considering the embedding of a n-dimensional image in a 
+(n+1)-dimensional space at a continuously variable resolution, the mechanism of 
+Scale Space theory comes into play, a research area that has received a great 
+deal of attention in recent years. Scale Space produces a hierarchy of regions 
+that naturally decompose a single image based on the survival of local extrema. 
+Underlying the axioms of Scale Space is a diffusion process that generates the 
+space by propagating an initial state of a parabolic Partial Differential 
+Equation (PDE); by using a non-linear PDE a robust mechanism can be developed. 
+Spatial image processing methods, including scale space methods, do not 
+generally take into account the probability that a given pixel belongs to a 
+given cluster 
+<P>This project is to develop and evaluate a novel technique for combining 
+feature space clustering with anisotropic diffusion. It uses the probability of 
+object membership to drive a diffusion process, and thus directly addresses the 
+problem of fuzzy membership. The probability assignment we propose herein is via 
+a feature space classfication scheme, although any object membership scheme 
+might be used. The method will be evaluated on Magnetic Resonance Imaging (MRI) 
+data, wherein fuzzy classification is a real issue due to the partial volume 
+effect resulting from finite voxel sampling resolution. 
+<H3>Student Projects</H3>
+<P>I envisage a number of possible projects of which some are outlined here. To 
+do these requires condfidence in programming and reasonable maths (mainly 
+calculus and probability therory). If you have a smidgeon of interest and want 
+to know more, please see me. Some references are attached to this document. 
+<H4>Unsupervised clustering schemes</H4>
+<P>Unsupervised Clustering is a process of determining the assignment of an 
+object to a class automatically - i.e. without intervention by an observer to 
+correct the performance of the algorithm. This is obviously highly desirable, 
+but notoriously difficult. An essential feature is the requirement to have an 
+unspecified number of classes, so that unforseen features can be automatically 
+detected. A promising approach will be to search for areas of high "cluster 
+density" in the neighbourhood of each point in feature space. The size of 
+neighbourhood could be adjusted over scale. It seems natural that at low scales, 
+the neighbourhood size would be large, reflecting few implied classes, and be 
+reduced over scale so that additional classes appear, in competition with the 
+tendency of scale space to merge regions spatially and reduce classes. The 
+appropriate form of a "Scale Space Recipe" for varying these parameters will be 
+an objective for the student to pursue. 
+<P>After determination of the number of classes and class exemplars, it will be 
+possible to compare various standard unsupervised classification approaches to 
+refine the position and statistical properties of the detected classes. The 
+number of such approaches is limited, and the student will be expected to carry 
+out a detailed literature search before commencing development work. Validation 
+will be in comparison to supervised schemes. 
+<H4>Supervised clustering schemes</H4>
+<P>Supervised classification schemes require an observer to supply a training 
+set which specifies for each data in the set, to which class it is assigned. 
+Necessarily then, the number of classes present must be known before hand. In 
+this case training data means pixel values, and the classes are anatomical 
+objects such as Grey Matter, or White Matter in the brain. For our particular 
+application, we have a proven simulation program [Simmons et.al. 1996] that will 
+be able to generate large quantities of simulated training data. 
+<P>There will be two separate approaches for acquisition of the training set. 
+Firstly an interactive tool will be developed such that regions can be 
+delineated in each spatial image and/or in the feature space image. Secondly, 
+the simulation program will be used to determine the class statistics of a 
+predefined model, under the same acquisition conditions as the real data. 
+<P>After realiable acquisition of the training set, it will be possible to 
+compare various standard supervised classification approaches. The number of 
+such approaches is large, and includes methods such as Bayesian classification, 
+non-parametric K-nearest neighbour classification, three-layer Neural Network 
+classification, and Parzen windowing. The student will be expected to carry out 
+a detailed literature search before commencing development work. 
+<H4>Heirarchical Stack Linking</H4>
+<P>A long term objective is to incorporate the MSPD process into a full 
+hierarchical segmentation scheme based on the linking of extremal paths in the 
+derived scale space. The premise here is that foreach iteration in the diffusion 
+scheme, each pixel will either be an extremum, or a non-extremum; non-extrema 
+can be joined in iso contours to surround extremal points. From scale to scale 
+the extrema can be linked to form extremal paths and the non-extrema linked to 
+form iso-intensity paths. The iso-intensity paths merge to extremal paths at 
+some scale and the set of pixels enclosed by the associated iso-contours form an 
+extremal region. Since the final result of the diffusion process is a single 
+extremum, the extremal paths also merge, and the points at which they do so form 
+nodes of a tree-like description of the scale space, the leaves of which form a 
+naturally hierarchically decomposed description of the original image. 
+<P>To implement the scheme requires the development of a tool which can display 
+the stack tree, and on selection of any node, give the corresponding image 
+region. The issue is more complex in a multi-spectral image, since extrema in 
+each component image must be considered separately. Thus the behaviour of 
+coupled extremal paths must be investigated. This project will suit someone more 
+interested in developing a sophisticated Graphics User Interface (GUI) and in 
+visualisation of multi-dimensional data. 
+<H4>Higher Dimensional Data and Generalised Feature Spaces</H4>
+<P>An important topic in medical imaging is the ability to deal with higher 
+dimensions than two. A great many segmentation tasks become more robust when the 
+third dimension is included. Three spatial dimensions give rise to a 
+four-dimensional scale space, and the principal difficulty is one of memory 
+requirements. An approach to this problem will be to take reduced resolution 3D 
+MRI images, consisting of a sub volume of interest with only a few slices in the 
+third dimensions. The second important generalisation will be to more than two 
+features. Here for unsupervised and classical classification methods the problem 
+is one of managing and searching a high dimensional, sparsely sampled feature 
+space. Special data structures will need to be developed. The ability of Neural 
+Networks to handle large dimensions of feature space is one of the aspects that 
+make them attractive. 
+<P>Fianlly, the MSPD scheme should not be limited to images acquired in 
+multi-spectral form. There is considerable scope to investigate the automatic 
+derivation of feature vectors from a single scalar image. A natural choice will 
+be the use of scale space invariants : intensity, gradient magnitude, laplacian, 
+and isophote curvature. The principle difference now will be that the feature 
+space will be used to derive a probabilistic diffusion coefficient but that the 
+single original image will be the one to be diffused. This is in 
+contradistinction to [Whitaker 1993] who diffused each image derivative 
+separately 
+<H3>References</H3>
+<P>Witkin AP, (1983), Scale space filtering, Proceedings of IJCAI, Karlsruhe, 
+1019-1021. 
+<P>Lifshitz LM, Pizer SM, 1990, A multi-resolution hierarchical approach to 
+image segmentation based on intensity extrema. IEEE Transactions PAMI 12(6), 
+529-540. 
+<P>Simmons, A., Arridge, S.R., Barker, G.J., Tofts, P.S., (1992), Segmentation 
+of neuroanatomy in magnetic resonance images, In : Medical Imaging VI: Image 
+Processing, (Ed: M.H.Loew), SPIE-1652, 2-13. 
+<P>Niessen, W.J., Vincken, K.L., Viergever, M.A., (1996), Comparison of 
+multiscale representations for a linking-based image segmentation model, Proc. 
+MMBIA'96, 263-272. 
+<P>Udupa, J.K., Samaraseka, S., (1996), Fuzzy connectedness and object 
+definition : theory, algorithms, and applications in image segmentation., 
+Graphical Models and Image Processing, 58(3), 246-261 
+<P>Clarke, L.P., Velthuizen, R.P., Phupharichj, S., Schellenberg, J.D., 
+Arrington, J.A., Sibiger, M. (1993), MRI: stability of three supervised 
+segmentation techniques. Mag Res Im 11 : 95-103 
+<P>Cline, H.E., Lorenson, W.E., Kikinis, R.,Jolesz, F, (1990) three-dimensional 
+segmentation of MR images of the head using probability and connectivity, JCAT 
+14 : 1037-1045 
+<P>Vannier, M.W., Butterfield, R.L., Jordan, D., Murphy, W.A., Levitt, R.G., 
+Gado, M., (1985), Multispectral analysis of magnetic resonance images. Radiology 
+154 : 221-224 
+<P>Hyman, T.J., Kurland, R.J., Levy, G.C, Shoop, J.D., (1989), Characterization 
+of normal brain tissue using seven calculated MRI parameters and a statistical 
+analysis system. Mag Res Med 11 : 22-34 
+<P>Simmons, A., Arridge, S.R., Barker, G.J., Cluckie, A.J., Tofts, P.S., (1994), 
+Improvements to the quality of MRI cluster analysis, Mag Res Im 12 : 1191-1204 
+<P>Koenderink J, (1984), The structure of images, Biological Cybernetics, 50, 
+363-370. 
+<P>ter Haar Romeny, B.M., Florack, L.M., Koenderink, J.J., Viergever, M.A., 
+(1991), Scale-space; its natural operators and differential invariants. In: 
+Information Processing in Medical Imaging IX, (eds : A.C.F.Colchester and 
+D.J.Hawkes), Lecture Notes in Computer Science 511, (Springer-Verlag: Berlin), 
+239-255. 
+<P>Perona P, Malik J. (1990), Scale-space and edge-detection using anisotropic 
+diffusion. IEEE Transactions PAMI, 12(7), 629-639. 
+<P>Catte, F., Lions, P-L., Morel, J-M., Coll T., (1992), Image selective 
+smoothing and edge detection by nonlinear diffusion, SIAM J. Num. Anal., 29(1), 
+182-193 
+<P>Whittaker, R.T., (1993), Geometry Limited Diffusion, PhD thesis, University 
+of North Carolina at Chapel Hill, North Carolina 27599-3175 
+<P>Whittaker, R.T. and Pizer, S.M., (1993), A multi-scale approach to nonuniform 
+diffusion, Computer Vision,Graphics, and Image Processing : Image Understanding, 
+57(1), 99-110. 
+<P>MacQueen J (1967), Proc. 5th Berkeley Symposium 1, 281-297. 
+<P>Haring, S., Viergever, M.A., Kok, J.N., (1993), A multiscale approach to 
+image segmentation using Kohonen Networks, In: Proc.13th International 
+Conference on Information Processing in Medical Imaging, (eds: H.H.Barrett and 
+A.F.Gmitro), Lecture Notes in Computer Science 687, (Springer-Verlag : Berlin), 
+212-224 
+<P>Simmons, A., Arridge, S.R., Barker, G.J., Williams S.C.R., (1996), Simulation 
+of MRI Cluster Plots and Application to Neurological Segmentation, Magnetic 
+Resonance Imaging, 14(1), 73-92. 
+<P>Arridge, S.R., Simmons, A., (1995), Improvement to seperability of clusters 
+using multispectral anisotropic diffusion Proc. Soc. Mag. Res. in Medicine XV, 
+1626. 
+<H3>Example Results</H3>
+<P>These images are from real data, using an unsupervised clustering algorithm 
+<P><IMG src="mspd_files/im1b_start.gif"> <IMG src="mspd_files/im2b_start.gif"> 
+<P>A pair of dual echo MRI scans 
+<P><IMG src="mspd_files/im1_2_cluster_start.gif"> <IMG 
+src="mspd_files/im1_2_cluster_end.gif"> 
+<P>Feature space before and after Multi-Spectral Probabilistic Diffusion (MPSD) 
+<P><IMG src="mspd_files/im1b_end.gif"> <IMG src="mspd_files/im2b_end.gif"> 
+<P>Resultant image pairs 
+<P><A href="http://www.cs.ucl.ac.uk/staff/S.Arridge/">Click here</A> for Simon's 
+Home page. </P></BODY></HTML>

@@ -1,0 +1,16 @@
+
+>>------------------------------------------------------------------------------
+Fuzzy C-Means on 'brain_mri.dat' with 65536 samples, 1 dimension and 4 clusters
+Running Fuzzy C-Means... [Done in 11.219 seconds]
+>>------------------------------------------------------------------------------
+Fuzzy C-Means on 'brain_mri.dat' with 65536 samples, 1 dimension and 3 clusters
+Running Fuzzy C-Means... [Done in 5.452 seconds]
+>>------------------------------------------------------------------------------
+Fuzzy C-Means on 'brain_mri.dat' with 65536 samples, 1 dimension and 5 clusters
+Running Fuzzy C-Means... [Done in 29.470 seconds]
+>>------------------------------------------------------------------------------
+Fuzzy C-Means on 'brain_mri.dat' with 65536 samples, 1 dimension and 4 clusters
+Running Fuzzy C-Means... [Done in 12.752 seconds]
+>>------------------------------------------------------------------------------
+Fuzzy C-Means on 'brain_mri.dat' with 65536 samples, 1 dimension and 4 clusters
+Running Fuzzy C-Means... [Done in 10.741 seconds]
